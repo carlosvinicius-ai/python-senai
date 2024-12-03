@@ -4,6 +4,7 @@ Documentação criada para auxiliar os alunos presentes no curso de Fundamentos 
 
 Este curso é voltado para a certificação [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep), onde a escola SENAI fez uma parceria junto a empresa [Cisco](https://www.netacad.com) para passar o conhecimento necessário para concluir a certificação do **Python Institute**
 
+
 ## Objetivos 👷
 
 Esta documentação tem como objetivo desenvolver o raciocínio logico, pensamento crítico e o desenvolvento de soft skills relacionados a programação. 🔍️
@@ -11,6 +12,7 @@ Esta documentação tem como objetivo desenvolver o raciocínio logico, pensamen
 Todos os projetos passados em aula e desenvolvidos ao decorrer do curso para avançar o conhecimento da liguagem python estará presente nesta documentação para melhor aproveitamento do curso, além de sites para desenvolver a programação e livros para leitura. 💡 
 
 > Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero. 🐛
+
 
 ## Conhecimento Adquirido 🎉
 
@@ -27,6 +29,7 @@ Para cada um dos conhecimentos adquiridos será postado aqui o link da documenta
 - [Python](https://www.python.org/doc/)
 - [Markdown](https://www.markdownguide.org)
 
+
 ## Aulas 📄
 
 Nesta parte estará o link para cada aula presente no curso, com as atividades feitas em aula, caso tenha algum exercício de plataforma externa estará aqui a documentação de como foi feita a resolução ✏️
@@ -37,7 +40,8 @@ Além da explicação sobre as informações passadas também terá um link para
 
 > Dê um problema a 10 programadores diferentes, e você terá 10 respostas diferentes.
 
-- [Aula 01 - Print](#)
+- [Aula 01 - Print](https://github.com/carlosvinicius-ai/python-senai/tree/main/Aula01-Print)
+
 
 ## Redes Sociais 🚀
 
